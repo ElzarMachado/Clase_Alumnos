@@ -22,7 +22,7 @@ alumno3.FechaNacimiento = new DateTime(2001, 06, 02);
 
 lista.Add(alumno1);
 lista.Add(alumno2);
-lista.Add(alumno3);
+lista.Add(alumno3); 
 
 foreach (Alumno alumnoEnLista in lista)
 {
